@@ -1,5 +1,11 @@
 <changelog>
 	<changes>
+		<version>1.0.0-b4</version>
+		<change>Added the ability to disable and enable quick actions</change>
+		<change>Added support for custom date and time formats</change>
+		<change>Added support for system 12 and 24 hour times</change>
+	</changes>
+	<changes>
 		<version>1.0.0-b3</version>
 		<change>Added preferences in settings</change>
 		<change>Added support for toggling the time and date labels on or off</change>

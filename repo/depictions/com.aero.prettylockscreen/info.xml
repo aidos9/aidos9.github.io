@@ -1,7 +1,7 @@
 <package>
 	<id>com.aero.prettylockscreen</id>
 	<name>PrettyLockScreen</name>
-	<version>1.0.0-b3</version>
+	<version>1.0.0-b4</version>
 	<compatibility>
 		<firmware>
             <miniOS>12.0</miniOS>
@@ -18,8 +18,9 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Added preferences in settings</change>
-		<change>Added support for toggling the time and date labels on or off</change>
+		<change>Added the ability to disable and enable quick actions</change>
+		<change>Added support for custom date and time formats</change>
+		<change>Added support for system 12 and 24 hour times</change>
 	</changelog>
 	<links></links>
 </package>
