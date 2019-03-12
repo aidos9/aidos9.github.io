@@ -1,5 +1,11 @@
 <changelog>
 	<changes>
+		<version>1.0.0-b5</version>
+		<change>Added support for enabling and disabling the homebar</change>
+		<change>Added support for customising the swipe up to unlock label</change>
+		<change>Added support to enable and disable the whole tweak</change>
+		<change>Added option to disable and enable the iPhone X lock icon</change>
+	<changes>
 		<version>1.0.0-b4</version>
 		<change>Added the ability to disable and enable quick actions</change>
 		<change>Added support for custom date and time formats</change>
