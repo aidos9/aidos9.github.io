@@ -1,14 +1,14 @@
 Package: com.aero.prettylockscreen
-Version: 1.0.0-b5
+Version: 1.0.0-b6
 Architecture: iphoneos-arm
 Maintainer: Aidos9
 Installed-Size: 220
 Depends: mobilesubstrate, firmware (>=12.0)
-Filename: ./debs/com.aero.prettylockscreen_1.0.0-b5_iphoneos-arm.deb
-Size: 12292
-MD5sum: 6ddf62a3d925dae1235b441e479f0599
-SHA1: df3651dca4f6d94d070d6a809645256306577ef4
-SHA256: 704b4d17c19601e53977042a819f041d733ef53d39a1b423729b68f25645a86b
+Filename: ./debs/com.aero.prettylockscreen_1.0.0-b6_iphoneos-arm.deb
+Size: 13400
+MD5sum: 4a304b6e72730ba77b9084cbcdcaab18
+SHA1: dfa7090d3a6823ae3badcb57d15f585792b5da79
+SHA256: e9d176b025a78012b213772a856655a4bec7006e0d82f1e2e26914f82cec5ded
 Section: Tweaks
 Description: A tweak which allows you to configure the lockscreen date and time labels
 Author: Aidos9
