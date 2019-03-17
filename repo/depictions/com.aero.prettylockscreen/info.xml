@@ -1,7 +1,7 @@
 <package>
 	<id>com.aero.prettylockscreen</id>
 	<name>PrettyLockScreen</name>
-	<version>1.0.0-b6</version>
+	<version>1.0.0-b7</version>
 	<compatibility>
 		<firmware>
             <miniOS>12.0</miniOS>
@@ -18,9 +18,8 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Added support for enabling and disabling the Control Center grabber</change>
-		<change>Added ability to shift the datetime view</change>
-		<change>Fixed bug with CallToAction label</change>
+		<change>Fix bug where swipe up to unlock label would incorrectly enable and disable</change>
+		<change>Added experimental option of seconds updates for the lockscreen</change>
 	</changelog>
 	<links></links>
 </package>

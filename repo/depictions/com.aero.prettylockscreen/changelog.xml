@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>1.0.0-b7</version>
+		<change>Fix bug where swipe up to unlock label would incorrectly enable and disable</change>
+		<change>Added experimental option of seconds updates for the lockscreen</change>
+	</changes>
+	<changes>
 		<version>1.0.0-b6</version>
 		<change>Added support for enabling and disabling the Control Center grabber</change>
 		<change>Added ability to shift the datetime view</change>
