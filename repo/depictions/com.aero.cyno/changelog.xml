@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.0-b9</version>
+		<change>Fix bug loading preferences</change>
+	</changes>
+	<changes>
 		<version>1.0.0-b8</version>
 		<change>Rebranded to Cyno</change>
 		<change>Added a weather widget</change>
