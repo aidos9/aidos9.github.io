@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>1.0.0-b8</version>
+		<change>Rebranded to Cyno</change>
+		<change>Added a weather widget</change>
+	</changes>
+	<changes>
 		<version>1.0.0-b7</version>
 		<change>Fix bug where swipe up to unlock label would incorrectly enable and disable</change>
 		<change>Added experimental option of seconds updates for the lockscreen</change>
