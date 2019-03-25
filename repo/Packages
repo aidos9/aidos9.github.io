@@ -5,13 +5,13 @@ Maintainer: Aidos9
 Installed-Size: 256
 Depends: mobilesubstrate, firmware (>=12.0)
 Filename: ./debs/com.aero.cyno_1.0.0-b8_iphoneos-arm.deb
-Size: 17930
-MD5sum: af914ff1d23a21390f0c4b2341145f26
-SHA1: d80f6ae1e7cbabf7ad8c11eab41046dd5ab4f025
-SHA256: 6de183cc08fde04a2bde131cfb466521adafcdbe7705089afab857c98d3f87eb
+Size: 17944
+MD5sum: 538449ee1be25eb21304101e8678268e
+SHA1: 89aca1f703afb7b9b546ec3c1f981fec9e6e6b74
+SHA256: bab68b23f72959fae4fc13bd721ab2717405690a820bcb3e0c7f966a6a19cd38
 Section: Tweaks
 Description: A tweak which allows you to configure aspects of the lockscreen
 Author: Aidos9
-Depiction: https://aidos9.github.io/repo/depictions/?p=com.aero.prettylockscreen
+Depiction: https://aidos9.github.io/repo/depictions/?p=com.aero.cyno
 Name: Cyno
 
