@@ -1,14 +1,14 @@
 Package: com.aero.cyno
-Version: 1.0.0-b9
+Version: 1.0.0-b10
 Architecture: iphoneos-arm
 Maintainer: Aidos9
-Installed-Size: 256
+Installed-Size: 13068
 Depends: mobilesubstrate, firmware (>=12.0)
-Filename: ./debs/com.aero.cyno_1.0.0-b9_iphoneos-arm.deb
-Size: 17932
-MD5sum: 9ccf2cfbccba01f6dde256dc9e8bd4ff
-SHA1: d3c078980347ce5105829937b66249d69ec9d96d
-SHA256: 90826ac3bff2445dccf792d8b162d59085f0da0d5ce390c7f096fe1e5493beb4
+Filename: ./debs/com.aero.cyno_1.0.0-b10_iphoneos-arm.deb
+Size: 3198838
+MD5sum: 2b869cc63fa9dac661f23d740a83efda
+SHA1: 42b5b49fdca79d221b3e4979f0acad4223429b56
+SHA256: 3b68057952b6534c3b883c9a84fd7ab679f15fe84517aa24922c91c8deab32d8
 Section: Tweaks
 Description: A tweak which allows you to configure aspects of the lockscreen
 Author: Aidos9
