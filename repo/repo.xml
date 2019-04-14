@@ -1,9 +1,9 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Based on the reposi3 template</name>
-			<url>https://github.com/supermamon/Reposi3/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<name>My Github</name>
+			<url>https://github.com/aidos9</url>
+			<iconclass>fa fa-github</iconclass>
 		</link>
 	</footerlinks>
 </repo>
