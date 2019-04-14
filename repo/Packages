@@ -1,3 +1,20 @@
+Package: com.aero.byebyestatusbar
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Aidos9
+Installed-Size: 228
+Depends: mobilesubstrate, firmware (>=12.0)
+Filename: ./debs/com.aero.byebyestatusbar_1.0.0_iphoneos-arm.deb
+Size: 12604
+MD5sum: 6656bc730cc785b54bd008a3af6fb2f5
+SHA1: 88247f7800a30be5f29ca1fcc44456f52696dc36
+SHA256: 6704a504652ce90e54cc34fd52ef4e62ab90cafcb30ca3e77956a2842283378b
+Section: Tweaks
+Description: A tweak which hides the status bar
+Author: Aidos9
+Depiction: https://aidos9.github.io/repo/depictions/?p=com.aero.byebyestatusbar
+Name: ByeByeStatusBar
+
 Package: com.aero.cyno
 Version: 1.0.0-b10
 Architecture: iphoneos-arm
