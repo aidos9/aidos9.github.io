@@ -1,0 +1,24 @@
+<package>
+	<id>com.aero.roundicons</id>
+	<name>RoundIcons</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+            <miniOS>12.0</miniOS>
+			<maxiOS>12.1.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A tweak to roundify the icons on the homescreen</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>A tweak to roundify the icons on the homescreen</change>
+	</changelog>
+	<links></links>
+</package>
