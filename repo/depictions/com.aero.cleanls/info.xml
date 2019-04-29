@@ -1,0 +1,24 @@
+<package>
+	<id>com.aero.cleanls</id>
+	<name>CleanLS</name>
+	<version>0.2.0</version>
+	<compatibility>
+		<firmware>
+      <miniOS>12.0</miniOS>
+			<maxiOS>12.1.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This is a tweak which cleans the lockscreen to make it look neat and refined</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>https://github.com/aidos9/CleanLS</links>
+</package>
