@@ -18,7 +18,9 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Added preferences</change>
+		<change>Added burn-in mitigation</change>
+		<change>Fixed bug with swipe-up to unlock text</change>
 	</changelog>
 	<links>https://github.com/aidos9/CleanLS</links>
 </package>

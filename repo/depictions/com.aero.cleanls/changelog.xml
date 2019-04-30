@@ -3,6 +3,7 @@
 		<version>0.2.0</version>
 		<change>Added preferences</change>
 		<change>Added burn-in mitigation</change>
+		<change>Fixed bug with swipe-up to unlock text</change>
 	</changes>
 	<changes>
 		<version>0.1.0</version>
