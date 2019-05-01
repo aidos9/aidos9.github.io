@@ -19,13 +19,13 @@ Package: com.aero.cleanls
 Version: 0.2.1
 Architecture: iphoneos-arm
 Maintainer: Aidos9
-Installed-Size: 104
+Installed-Size: 228
 Depends: mobilesubstrate, firmware (>=12.0)
 Filename: ./debs/com.aero.cleanls_0.2.1_iphoneos-arm.deb
-Size: 11126
-MD5sum: ae079c70a5b91dd0cd8d7ca073350b5c
-SHA1: 645d13950819f7a594718b5aecfcfcf94c7eee58
-SHA256: 758cada6b6b1808010db94c91807281d72d9f53d29649066383de879fcaf7b16
+Size: 17378
+MD5sum: 50cd53f92d7504804398d7edc223106b
+SHA1: 1ec3d27c16bb1398aca2453cb5e50446f19f0ce7
+SHA256: 8f510a12f2201fb04fc4d57ae384f6d463e558e46d3b3ef2314c66dbd3cfcb96
 Section: Tweaks
 Description: A clean minimalist lock screen tweak. Works best with a black background on iPhone X/XS devices.
 Author: Aidos9
