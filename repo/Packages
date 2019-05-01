@@ -16,16 +16,16 @@ Depiction: https://aidos9.github.io/repo/depictions/?p=com.aero.byebyestatusbar
 Name: ByeByeStatusBar
 
 Package: com.aero.cleanls
-Version: 0.2
+Version: 0.2.1
 Architecture: iphoneos-arm
 Maintainer: Aidos9
-Installed-Size: 132
+Installed-Size: 104
 Depends: mobilesubstrate, firmware (>=12.0)
-Filename: ./debs/com.aero.cleanls_0.2_iphoneos-arm.deb
-Size: 13426
-MD5sum: 88ef0dee3f39c35488e9eff7c0f4924b
-SHA1: ef252dd2ce222ec2b688656d0c56358d1d51a4ca
-SHA256: 357d7275f4b8f5a72ee2c10f7b068891ab6dc7f8b0e6fb5a89e7841f038db94e
+Filename: ./debs/com.aero.cleanls_0.2.1_iphoneos-arm.deb
+Size: 11126
+MD5sum: ae079c70a5b91dd0cd8d7ca073350b5c
+SHA1: 645d13950819f7a594718b5aecfcfcf94c7eee58
+SHA256: 758cada6b6b1808010db94c91807281d72d9f53d29649066383de879fcaf7b16
 Section: Tweaks
 Description: A clean minimalist lock screen tweak. Works best with a black background on iPhone X/XS devices.
 Author: Aidos9
