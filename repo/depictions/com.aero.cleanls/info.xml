@@ -1,7 +1,7 @@
 <package>
 	<id>com.aero.cleanls</id>
 	<name>CleanLS</name>
-	<version>0.3.0</version>
+	<version>0.3.1</version>
 	<compatibility>
 		<firmware>
       <miniOS>12.0</miniOS>
@@ -18,10 +18,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Added a cleaner flashlight button</change>
-    <change>Added a cleaner way of showing notifications</change>
-    <change>Dismiss notifications by holding down on them</change>
-    <change>Open notifications by tapping them</change>
+		<change>Disable the burn-in protection for the flashlight icon pending further tests</change>
 	</changelog>
 	<links>https://github.com/aidos9/CleanLS</links>
 </package>
