@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.1.1</version>
+		<change>Added a charging animation</change>
+		<change>Added a fade in/out animation</change>
+		<change>Bug fixes.</change>
 		<version>0.1.0</version>
 		<change>A tweak to show a set of dots on the lockscreen to indicate charging progress.</change>
 	</changes>
