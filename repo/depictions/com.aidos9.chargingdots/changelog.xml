@@ -1,5 +1,8 @@
 <changelog>
 	<changes>
+		<version>0.1.2</version>
+		<change>Added an option to configure the views position.</change>
+		<change>Added an option to reset the settings.</change>
 		<version>0.1.1</version>
 		<change>Added a charging animation</change>
 		<change>Added a fade in/out animation</change>
