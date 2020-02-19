@@ -1,5 +1,8 @@
 <changelog>
 	<changes>
+		<version>0.1.4</version>
+		<change>Performance optimizations.</change>
+		<change>Add support for changing the dot sizes.</change>
 		<version>0.1.3</version>
 		<change>Improved battery usage and performance.</change>
 		<change>Fixed crash when disabling the pulse animation.</change>
