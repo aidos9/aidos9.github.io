@@ -1,5 +1,8 @@
 <changelog>
 	<changes>
+		<version>0.2</version>
+		<change>Added bar mode!</change>
+		<change>More performance improvements.</change>
 		<version>0.1.4</version>
 		<change>Performance optimizations.</change>
 		<change>Add support for changing the dot sizes.</change>
