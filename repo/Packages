@@ -1,14 +1,14 @@
 Package: com.aidos9.chargingdots
-Version: 0.2
+Version: 0.2.1
 Architecture: iphoneos-arm
 Maintainer: aidos9
-Installed-Size: 432
+Installed-Size: 464
 Depends: mobilesubstrate, firmware(>=13.0)
-Filename: ./debs/com.aidos9.chargingdots_0.2_iphoneos-arm.deb
-Size: 34370
-MD5sum: 4956320da4146656933ed7cd73ce214e
-SHA1: a0ef1520bb319dd16d2692904efd2040b62114e6
-SHA256: 21841bb6ab782583894e5b1f6965201a861b75f668975c8ca6262dce6ad03bd1
+Filename: ./debs/com.aidos9.chargingdots_0.2.1_iphoneos-arm.deb
+Size: 35892
+MD5sum: ffcf0ddb4ab2b1fcb3466a54317bb7ee
+SHA1: dc383c75ab5233240fc1007847e7124695363c92
+SHA256: 69b65f7f72136934b34e4e676286783be04868ddd6393adfe1fe94f81662c6fe
 Section: Tweaks
 Description: A tweak to show a set of dots on the lockscreen to indicate charging progress.
 Author: aidos9

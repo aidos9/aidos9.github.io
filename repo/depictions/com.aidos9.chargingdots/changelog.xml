@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.2.1</version>
+		<change>Added bar mode pulse animation!</change>
+		<change>Added option to change pulse animation duration!</change>
+		<change>Crash fixes.</change>
 		<version>0.2</version>
 		<change>Added bar mode!</change>
 		<change>More performance improvements.</change>
