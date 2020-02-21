@@ -1,26 +1,6 @@
 <changelog>
 	<changes>
-		<version>0.2.1</version>
-		<change>Added bar mode pulse animation!</change>
-		<change>Added option to change pulse animation duration!</change>
-		<change>Crash fixes.</change>
-		<version>0.2</version>
-		<change>Added bar mode!</change>
-		<change>More performance improvements.</change>
-		<version>0.1.4</version>
-		<change>Performance optimizations.</change>
-		<change>Add support for changing the dot sizes.</change>
-		<version>0.1.3</version>
-		<change>Improved battery usage and performance.</change>
-		<change>Fixed crash when disabling the pulse animation.</change>
-		<version>0.1.2</version>
-		<change>Added an option to configure the views position.</change>
-		<change>Added an option to reset the settings.</change>
-		<version>0.1.1</version>
-		<change>Added a charging animation</change>
-		<change>Added a fade in/out animation</change>
-		<change>Bug fixes.</change>
 		<version>0.1.0</version>
-		<change>A tweak to show a set of dots on the lockscreen to indicate charging progress.</change>
+		<change>Beta release!</change>
 	</changes>
 </changelog>
