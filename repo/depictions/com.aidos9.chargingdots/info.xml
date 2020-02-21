@@ -43,7 +43,11 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Beta release!</change>
+		<change>Increased max Y-Offset values.</change>
+		<change>Added X-Offset.</change>
+		<change>Fixed Y-Offset not working after respring.</change>
+		<change>Fix flashing dot on 100%.</change>
+		<change>Fix bug where disabling and re-enabling pulse animation wouldn't work.</change>
 	</changelog>
 	<links></links>
 </package>

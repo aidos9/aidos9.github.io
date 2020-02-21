@@ -1,5 +1,12 @@
 <changelog>
 	<changes>
+		<version>0.2.0</version>
+		<change>Increased max Y-Offset values.</change>
+		<change>Added X-Offset.</change>
+		<change>Fixed Y-Offset not working after respring.</change>
+		<change>Fix flashing dot on 100%.</change>
+		<change>Fix bug where disabling and re-enabling pulse animation wouldn't work.</change>
+		<change>Beta release!</change>
 		<version>0.1.0</version>
 		<change>Beta release!</change>
 	</changes>
