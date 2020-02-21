@@ -16,11 +16,34 @@
 	<descriptionlist>
 		<description>A tweak to show a set of dots on the lockscreen to indicate charging progress. NOTE: Only tested on iPhone X (iOS 13)</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>Dots mode with a charging color</description>
+			<image>Screenshot-1.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Bar mode with a charging color</description>
+			<image>Screenshot-2.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Bar mode without a charging color</description>
+			<image>Screenshot-3.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Dots mode without a charging color</description>
+			<image>Screenshot-4.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Settings</description>
+			<image>Screenshot-5.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Settings</description>
+			<image>Screenshot-6.png</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
-		<change>Added bar mode pulse animation!</change>
-		<change>Added option to change pulse animation duration!</change>
-		<change>Crash fixes.</change>
+		<change>Beta release!</change>
 	</changelog>
 	<links></links>
 </package>
