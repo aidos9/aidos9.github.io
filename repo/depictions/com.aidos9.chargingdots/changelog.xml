@@ -1,5 +1,12 @@
 <changelog>
 	<changes>
+		<version>0.3.0</version>
+		<change>Added an option to change the rounding method for dots mode.</change>
+		<change>Added an option to choose view orientation.</change>
+		<change>Added an option to hide the date label.</change>
+		<change>Redesigned preferences.</change>
+		<change>Renamed width property to length.</change>
+		<change>Fixed bug where the dots would not be properly centred in their parent view.</change>
 		<version>0.2.0</version>
 		<change>Increased max Y-Offset values.</change>
 		<change>Added X-Offset.</change>
