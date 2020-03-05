@@ -1,5 +1,12 @@
 <changelog>
 	<changes>
+		<version>0.4.0</version>
+		<change>Assign individual dots colours.</change>
+		<change>Colours for low power mode.</change>
+		<change>Colours when battery is low.</change>
+		<change>Circle mode.</change>
+		<change>Outline mode.</change>
+		<change>Fixed pulse animation showing at 100% in bar mode.</change>
 		<version>0.3.0</version>
 		<change>Added an option to change the rounding method for dots mode.</change>
 		<change>Added an option to choose view orientation.</change>

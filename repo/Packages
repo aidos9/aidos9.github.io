@@ -1,14 +1,14 @@
 Package: com.aidos9.chargingdots
-Version: 0.3.0
+Version: 0.4.0
 Architecture: iphoneos-arm
 Maintainer: aidos9
-Installed-Size: 488
+Installed-Size: 552
 Depends: mobilesubstrate, firmware(>=13.0), com.creaturesurvive.libcscolorpicker(>=1.0)
-Filename: ./debs/com.aidos9.chargingdots_0.3.0_iphoneos-arm.deb
-Size: 49168
-MD5sum: 09553c07100953441a7ca550b879b29b
-SHA1: 771ee92dfa0b0a2a9a08af5e7ef2aaac99c7f6b1
-SHA256: 6d1fcd9fb6acfcb7e34f87b04da825e13001986eb76c09e23fa232bf702487a1
+Filename: ./debs/com.aidos9.chargingdots_0.4.0_iphoneos-arm.deb
+Size: 60820
+MD5sum: c4ac4611db887052895f33fcb6f46606
+SHA1: a721a08dd9968984ee74cafe33229669bf1602a6
+SHA256: b79a3e6fb09e9e5dcce44d7bf43dbc751952219af43a87dfe4219827114e812b
 Section: Tweaks
 Description: A tweak to show a set of dots on the LockScreen to indicate battery percentage.
 Author: aidos9
