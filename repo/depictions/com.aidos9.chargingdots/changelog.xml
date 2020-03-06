@@ -1,5 +1,7 @@
 <changelog>
 	<changes>
+		<version>0.4.1</version>
+		<change>Fixed bug where low battery colour wouldn't always appear in the bar, circle and outline modes.</change>
 		<version>0.4.0</version>
 		<change>Assign individual dots colours.</change>
 		<change>Colours for low power mode.</change>
